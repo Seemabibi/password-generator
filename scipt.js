@@ -16,20 +16,32 @@ function generatePassword() {
    hasUpperChars: false,
    hasNumberChars: false,
    }
-
+  
    var length = window.prompt("how long would you like your password to be?");
 
    if (isNaN (length)) {
    window.alert ("You must enter a valid number")
    }
 
+   options.numberOfChars = length;
 
+   options.hasLowerchars = confirm("would you like lower case characters");
+   
+   var chars = [];
 
+   if (options.hasLowerchars) {
 
+   }
 
+   if (options.hasNumberChars){
 
+   }
 
+   var password = ""
+   for (var i = 0; i < options.hasNumberChars; options.hasNumberChars++) {
+    password +=
+   }
 
-
+  return (password)
 }
 generateBtn.addEventListener("click", writePassword);
