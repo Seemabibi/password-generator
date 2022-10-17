@@ -38,11 +38,11 @@ https://github.com/Seemabibi/password-generator/blob/main/Password.png
 ### Deployed Page Link
 
 To view the repo limk 
-
+https://seemabibi.github.io/password-generator/
 
 ### Github Repo Link 
 
-To view the repo visit [github]
+To view the repo visit [github] https://github.com/Seemabibi/password-generator
 
 https://www.google.co.uk/
 
