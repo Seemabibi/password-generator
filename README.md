@@ -33,7 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 Can select to have/not to have numbers, uppercase, lowercase, special characters, letters between 8-128 characters. 
 
 ### Screenshot of password generator applicaion on browser
-
+https://github.com/Seemabibi/password-generator/blob/main/Password.png
 
 ### Deployed Page Link
 
