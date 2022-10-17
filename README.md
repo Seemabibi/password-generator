@@ -32,6 +32,8 @@ THEN the password is either displayed in an alert or written to the page
 
 Can select to have/not to have numbers, uppercase, lowercase, special characters, letters between 8-128 characters. 
 
+### Screenshot of password generator applicaion on browser
+
 
 ### Deployed Page Link
 
@@ -42,7 +44,7 @@ To view the repo limk
 
 To view the repo visit [github]
 
-
+https://www.google.co.uk/
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
